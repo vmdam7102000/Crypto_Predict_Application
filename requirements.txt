@@ -1,0 +1,11 @@
+cryptocmd
+psycopg2
+Keras
+Tensorflow
+Sklearn
+Numpy
+Pandas
+scikit-learn
+nltk
+textblob
+snscrape
